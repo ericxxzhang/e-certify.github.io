@@ -1,0 +1,80 @@
+---
+layout:     post
+title:      06. 2022年Just My Socks梯子购买和使用教程
+subtitle:    "\"Just My Socks梯子购买和使用教程\""
+date:       2021-03-06
+author:     Eric Zhang
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+    - 生活
+    - 翻墙
+    - 科学上网
+---
+
+> “🙉🙉🙉 ”
+
+
+## 前言
+
+很久没有搭理博客了，今天来讲讲怎么科学上网，用于收集学习资料和阅读外部知识。
+
+<p id = "build"></p>
+---
+
+## 正文
+Just My Socks是 搬瓦工官方运营的shadowsocks机场，适合于不想买vps折腾部署的网友。Just My socks支持支付宝付款，30天内不满意随时退款，使用CN2(包括CN2 GIA)线路，IP被墙后自动切换，非常稳定，在开某会的时候其他梯子都不能用的时候这个也能用,不存在跑路风险。支持SS/SSR/V2RAY节点
+
+Just My socks [官网](https://justmysocks.net/members/aff.php?aff=10848) 
+
+Just My Socks套餐列表
+# 省钱优惠码： JMS9272283 
+优惠5.2%，年付更优惠，只需付10个月用1年。
+
+付款方式：支付宝、paypal
+
+套餐选择：
+
+洛杉矶500	2.5G	500G/月	$5.88/月	最多5个设备	
+
+洛杉矶1000	5G	1T/月	$9.88/月	不限制	
+
+洛杉矶5000	5G	5T/月	$48.99/月	不限制
+
+东京100	100M	100G/月	$29.99/月	最多3个设备	
+
+东京500	200M	500G/月	$135.99/月	最多5个设备
+
+香港100	100M	100G/月	$34.99/月	最多3个设备
+
+香港500	500M	500G/月	$149.99/月	最多5个设备
+
+
+对于绝大部分网友，5.88刀每月的套餐足够（如果设备多或者想和他人共享，建议9.88刀每月的套餐) just my socks配置界面
+
+在“choose billing cycle”下拉框中选择付款周期，月付5.88刀，季付16.88刀，半年付31.88刀，年付58.88刀。可以看到购买时间越长越优惠，年付相当于买10个月送2个月。
+
+
+鉴于目前服务器被买爆、许多人想上外网的形势，建议年付，不仅优惠较大，也能避免续费时低价套餐被抢没的困境（Just My Socks和搬瓦工一样，不满意30天内退款，无需担心）。
+
+
+## Just My Socks使用教程
+1. 登录 Just My Socks [官网](https://justmysocks.net/members/aff.php?aff=10848) （已登录请略过），点击导航菜单的“Service” -> “My Service”，就可以看到你刚才购买的套餐：
+
+2. 点击购买的套餐，会显示套餐购买的shadowsocks详细配置信息：
+
+just my socks套餐详情
+Just My Socks以域名形式给了五个服务器地址，每个服务器的端口和密码都是一样的。加密方式、混淆方式每个服务器可能都不一样，no udp表示不支持udp， obfs=tls表示启用了流量混淆，请注意这些参数。
+
+3. 界面往下拉，可以看到SS链接V2ray链接和二维码。建议直接扫描二维码导入，省去手工配置的麻烦和出错。
+
+4. 从官方下载下载 [客户端](https://justmysocks.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html)
+
+根据信息配置好，接下来就可以上外网了，感受CN2 GIA线路的畅爽吧！
+
+## 后记
+
+如有其他问题，欢迎留言讨论。
+
+—— Eric Zhang 后记于 2022.3
+
