@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      04. 第1周记(8.2-8)
-subtitle:   日常记录
-date:       2021-08-08
+title:      07. 功能安全介绍
+subtitle:   功能安全学习
+date:       2022-08-07
 author:     Eric Zhang
 header-img: img/Notes-2021.jpg
 catalog: 	 true
