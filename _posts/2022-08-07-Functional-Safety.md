@@ -28,12 +28,12 @@ tags:
 ## IEC 61508 – 基本功能安全标准
 
 基本功能安全标准是IEC 61508 ，适用于所有行业。尽管该标准涵盖了所有行业，但每个行业都有其细微差别，因此许多行业根据 IEC61508 制定了自己的标准。在下面的部分中，我们检查了一些特定的行业标准。重要的是要注意，在决定使用哪种安全标准时，最特定于行业的标准有先例。
-img/Functional-Safety3.jpg
+https://raw.githubusercontent.com/ericxxzhang/e-certify.github.io/tree/master/imgimg/Functional-Safety3.jpg
 
 ## ISO 26262 – 汽车行业
 ISO 26262 标准适用于由车辆中的硬件和软件组件组成的电气和电子系统。它定义了系统的安全相关功能以及在开发过程中使用的过程、方法和工具要满足的要求。
 该标准提供了汽车安全生命周期，并支持在这些生命周期阶段定制必要的活动。它确定了一种基于汽车特定风险的方法来确定风险等级（汽车安全完整性等级，ASIL），并使用 ASIL 来指定项目的必要安全要求，以实现可接受的剩余风险。最后，确定确认、验证和确认措施的要求，以确保达到足够和可接受的安全水平。
-img/Functional-Safety2.jpg
+https://raw.githubusercontent.com/ericxxzhang/e-certify.github.io/tree/master/img/Functional-Safety2.jpg
 
 ## ISO 13849 和 IEC 62061 – 制造和机械行业
 EN 954-1 于 1996 年首次发布，被用作机器制造商和最终用户控制系统部件的功能安全标准近 15 年。但随着技术的快速发展，该标准不再能够跟上正在开发的系统和组件。2007 年，EN 954-1 被两项新标准所取代——EN ISO 13849-1 和 IEC 62061—— 旨在应对这些不断变化的技术。
