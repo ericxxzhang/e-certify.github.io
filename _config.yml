@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-EZ-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:     
 zhihu_username:     ericxxzhang
 github_username:    ericxxzhang
@@ -99,7 +99,7 @@ plugins:
   - jekyll-feed #Add feeds
 
 # Friends
-friends: [
+#friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
