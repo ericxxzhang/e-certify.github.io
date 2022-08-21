@@ -14,6 +14,9 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "God helps those who help themselves."
 sidebar-avatar: /img/about-EZ-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
+name:         Eric Zhang`s Blog
+description:  Thinking will not overcome fear but action will.
+url:          https://zhangxiuxing.com
 
 
 # SNS settings
@@ -94,9 +97,9 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-plugins:
-  - jekyll-paginate #Fix deprecation warning
-  - jekyll-feed #Add feeds
+#plugins:
+#  - jekyll-paginate #Fix deprecation warning
+#  - jekyll-feed #Add feeds
 
 # Friends
 #friends: [
