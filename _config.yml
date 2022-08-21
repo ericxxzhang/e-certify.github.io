@@ -21,6 +21,7 @@ url:          https://zhangxiuxing.com
 
 # SNS settings
 RSS: true
+<a href="{{ site.url }}/feed.xml">RSS订阅</a> 
 # weibo_username:     
 zhihu_username:     ericxxzhang
 github_username:    ericxxzhang
