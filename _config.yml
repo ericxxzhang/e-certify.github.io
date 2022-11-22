@@ -20,13 +20,13 @@ url:          https://zhangxiuxing.com
 
 
 # SNS settings
-# RSS: true
+RSS: false
 # <a href="{{ site.url }}/feed.xml">RSS订阅</a> 
 # weibo_username:     
 zhihu_username:     ericxxzhang
 github_username:    ericxxzhang
-facebook_username:  
-jianshu_username:   
+#facebook_username:  
+#jianshu_username:   
 #twitter_username:   
 
 
@@ -98,9 +98,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-#plugins:
-#  - jekyll-paginate #Fix deprecation warning
-#  - jekyll-feed #Add feeds
+
 
 # Friends
 #friends: [
