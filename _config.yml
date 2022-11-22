@@ -25,9 +25,9 @@ RSS: false
 # weibo_username:     
 zhihu_username:     ericxxzhang
 github_username:    ericxxzhang
-#facebook_username:  
-#jianshu_username:   
-#twitter_username:   
+# facebook_username:  
+# jianshu_username:   
+# twitter_username:   
 
 
 
@@ -101,7 +101,7 @@ service-worker: true
 
 
 # Friends
-#friends: [
+friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
