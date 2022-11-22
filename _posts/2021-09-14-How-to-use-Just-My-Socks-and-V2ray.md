@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      08. 2022年Just My Socks V2ray使用教程
+title:      08. 2021年Just My Socks V2ray使用教程
 subtitle:    "\"Just My Socks V2ray使用教程\""
-date:       2022-08-14
+date:       2021-09-14
 author:     Eric Zhang
 header-img: img/post-bg-2015.jpg
 catalog: true
@@ -52,5 +52,5 @@ V2RAY官网下载：[win下载](https://github.com/2dust/v2rayN) 、[MAC下载](
 
 下一篇将写用SwitchyOmega管理代理设置
 
-—— Eric Zhang 后记于 2022.8
+—— Eric Zhang 后记于 2021.9
 
