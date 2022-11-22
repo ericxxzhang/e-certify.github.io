@@ -2,7 +2,7 @@
 layout:     post
 title:      10. 动力电池运输——UN 38.3标准测试简介
 subtitle:    "\"动力电池知识\""
-date:       2022-11-12
+date:       2021-09-22
 author:     Eric Zhang
 header-img: img/UN383.png
 catalog: true
@@ -105,5 +105,5 @@ UN/DOT 38.3《关于危险货物运输的建议书 试验和标准手册》ST/SG
 
 待下次补充锂电池 MSDS/SDS。
 
-—— Eric Zhang 记于 2022.11
+—— Eric Zhang 记于 2021.09
 
