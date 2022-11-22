@@ -2,7 +2,7 @@
 layout:     post
 title:      07. 功能安全介绍
 subtitle:   功能安全学习
-date:       2022-08-07
+date:       2022-09-10
 author:     Eric Zhang
 header-img: img/Functional-Safety.jpg
 catalog: 	 true
@@ -136,4 +136,4 @@ IEC 60880 是用于核电厂的安全标准。它涵盖了执行安全功能的�
 功能安全系列文章，待完善。。。
 
 
-—— Eric Zhang 于 2022.8.7
+—— Eric Zhang 于 2021.9.10
