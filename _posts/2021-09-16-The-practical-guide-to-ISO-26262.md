@@ -2,7 +2,7 @@
 layout:     post
 title:      09. ISO 26262 实用指南
 subtitle:    "\"ISO 26262 功能安全 电动汽车\""
-date:       2022-08-16
+date:       2021-09-16
 author:     Eric Zhang
 header-img: img/Functional-Safety.jpg
 catalog: true
@@ -97,5 +97,5 @@ SOTIF 的目的是开始解决自动驾驶的某些方面，其中安全性不�
 ## 后记
 
 
-—— Eric Zhang 记于 2022.8
+—— Eric Zhang 记于 2021.9
 
