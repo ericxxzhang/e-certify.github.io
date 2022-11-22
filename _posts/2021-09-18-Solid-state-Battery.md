@@ -2,7 +2,7 @@
 layout:     post
 title:      10. 什么是固态电池
 subtitle:    "\"固态电池知识\""
-date:       2022-08-16
+date:       2021-09-16
 author:     Eric Zhang
 header-img: img/Solid-state -Battery.jpg
 catalog: true
@@ -86,5 +86,5 @@ tags:
 因为全固态电池的电极被固体隔开，所以不易发生短路，并因为使用耐热性高的电解质，所以可以在更高温度下使用。虽说如此，因为电池均是“能源罐头”，所以全固态电池也有风险。可能会因某种原因，电极发生短路，所以使用操作时需要小心谨慎。
 ## 后记
 
-—— Eric Zhang 记于 2022.8
+—— Eric Zhang 记于 2021.9
 
