@@ -2,7 +2,7 @@
 layout:     post
 title:      07. 功能安全介绍
 subtitle:   功能安全学习
-date:       2022-09-10
+date:       2021-09-10
 author:     Eric Zhang
 header-img: img/Functional-Safety.jpg
 catalog: 	 true
