@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      13. 欧洲经济委员会机动车E-mark认证
-subtitle:    "\"汽车知识\""
-date:       2021-09-25
+subtitle:    "\"电动汽车知识\""
+date:       2021-10-01
 author:     Eric Zhang
 header-img: img/auto-parts.jpg
 catalog: true
@@ -171,5 +171,5 @@ B. 厂商经由工厂评监程序，确认其品质系统
 
 [科学上网](https://justmysocks.net/members/aff.php?aff=10848) 
 
-—— Eric Zhang 记于 2021.09
+—— Eric Zhang 记于 2021.10
 
