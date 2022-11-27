@@ -105,5 +105,7 @@ UN/DOT 38.3《关于危险货物运输的建议书 试验和标准手册》ST/SG
 
 待下次补充锂电池 MSDS/SDS。
 
+[科学上网](https://justmysocks.net/members/aff.php?aff=10848) 
+
 —— Eric Zhang 记于 2021.09
 
