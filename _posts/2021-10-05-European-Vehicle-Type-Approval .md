@@ -4,7 +4,7 @@ title:      13. 欧盟整车与零部件e-mark认证
 subtitle:    "\"电动汽车知识\""
 date:       2021-10-05
 author:     Eric Zhang
-header-img: img/auto-parts.jpg
+header-img: img/ECE CAR.jpg
 catalog: true
 tags:
     - 机动车
