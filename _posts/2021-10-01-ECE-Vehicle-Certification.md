@@ -4,7 +4,7 @@ title:      13. 欧洲经济委员会机动车E-mark认证
 subtitle:    "\"电动汽车知识\""
 date:       2021-10-01
 author:     Eric Zhang
-header-img: img/auto-parts.jpg
+header-img: img/ECE CAR.jpg
 catalog: true
 tags:
     - 机动车
