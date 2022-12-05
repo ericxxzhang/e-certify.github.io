@@ -54,11 +54,11 @@ ECE R10是针对整车及车载电子电器产品在电磁兼容方面的国际�
 一是非REESS并网充电模式(other than REESS charging mode coupled to the power grid)。
 REESS并网充电模式是ECE R10中新增加的EUT配置模式，指整车的正常充电模式(the rechargeable energy storage system)。
 其中，" REESS" 的是指可充电的能量存储系统，它为整车的电推进提供电能。
-规范中明确要求，在整个试验过程中，其充电状态(SOC)应保持在最大 SOC 的20%~80%。
+规范中明确要求，在整个试验过程中，其充电状态(SOC)应保持在最大SOC的20%~80%。
 这可能会导致分不同的子频段进行测试，因为需要将电池放电，使下一子频段内样品的充电状态符合要求。
 
 二是REESS并网充电模式(REESS charging mode coupled to the power grid)。
-而非 REESS 并网充电模式，顾名思义，是指除 REESS 并网充电模式外的其他模式，包含电动机运行状态和上电且电动机不运转状态等。
+而非 REESS 并网充电模式，顾名思义，是指除 REESS 并网充电模式外的其他模式，包含电动机运行状态和上电且电动机不运转状态等。且保持在最大SOC的20%~80%(充电电流为额度值的80%或更多)。
 
 ### 测试项目——非REESS并网充电模式
 #### 1.宽度电磁辐射发射(EMI)
