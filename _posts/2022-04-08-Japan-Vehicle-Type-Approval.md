@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      20. 日本机机动车TRIAS认证
+title:      20. 日本机动车TRIAS认证
 subtitle:    "\"电动汽车知识\""
 date:       2022-04-08
 author:     Eric Zhang
