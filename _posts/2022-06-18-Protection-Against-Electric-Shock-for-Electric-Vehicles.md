@@ -32,7 +32,7 @@ tags:
 ### 1. 电压等级
 依据GB 18384-2020,根据整车的最大工作电压，将电气元件或电路分为以下等级，见表1-1。
 
-![](/img/Protection-Against-Electric-Shock-for-Electric-Vehicles-1.PNG)
+![](/img/Protection-Against-Electric-Shock-for-Electric-Vehicles-1.png)
 
 对于 48V 系统,只要可以保证直流系统不超过 60V(d.c.),其交流电机之外的部分就可以不被认定为B级电压电路,不需要满足相关的触电防护要求。
 
