@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      24. 电动汽车安全—使用操控安全
+title:      27. 电动汽车安全—使用操控安全
 subtitle:    "\"电动汽车知识\""
 date:       2022-07-19
 author:     Eric Zhang
