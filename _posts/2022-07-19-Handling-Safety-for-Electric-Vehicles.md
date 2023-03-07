@@ -89,5 +89,7 @@ tags:
 
 [科学上网](https://justmysocks.net/members/aff.php?aff=10848) 
 
+[腾讯云新客户无门槛领取总价值高达2860元代金券先到先得](https://cloud.tencent.com/act/cps/redirect?redirect=1040&cps_key=2d2ab8faa01ad78edb8983691dbcd0ba&from=console) 
+
 —— Eric Zhang 记于 2022.07
 
