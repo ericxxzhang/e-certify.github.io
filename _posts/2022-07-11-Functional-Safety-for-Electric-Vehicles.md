@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      24. 电动汽车安全—功能安全
+title:      26. 电动汽车安全—功能安全
 subtitle:    "\"电动汽车安全知识\""
 date:       2022-07-11
 author:     Eric Zhang
