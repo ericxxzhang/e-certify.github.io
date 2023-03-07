@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      24. 电动汽车安全——防触电安全
+title:      25. 电动汽车安全——防触电安全
 subtitle:    "\"电动汽车安全知识\""
 date:       2022-06-18
 author:     Eric Zhang
