@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      23. 电动汽车动力电池无线充电
+title:      24. 电动汽车动力电池无线充电
 subtitle:    "\"汽车认证知识\""
 date:       2022-06-08
 author:     Eric Zhang
